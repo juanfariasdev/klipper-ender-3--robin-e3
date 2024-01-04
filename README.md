@@ -23,8 +23,8 @@ Certifique-se de ajustar os parâmetros no arquivo `config` de acordo com as esp
 
 Se precisar de ajuda ou tiver dúvidas, sinta-se à vontade para entrar em contato:
 
-- Site: [juanpablofarias.com]
-- Instagram: [@juanfarias.dev]
+- Site: juanpablofarias.com
+- Instagram: @juanfarias.dev
 
 ## Contribuição
 
